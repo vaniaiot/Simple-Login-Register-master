@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login app</string>
+
+    <string name="gender_unknown">Unknown</string>
+
+    <string name="gender_male">Male</string>
+
+    <string name="gender_female">Female</string>
+
+    <string name="unknown_gender">Unknown Gender</string>
+</resources>
